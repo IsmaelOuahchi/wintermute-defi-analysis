@@ -1,0 +1,85 @@
+counterparty_entity,counterparty_group,counterparty_type,n_txs,volume_usd
+Uniswap,DeFi,Dexs,51477,357337902.84922236
+Binance,DeFi,CEX,435,273133619.5859543
+Wintermute,Internal,Wintermute,278,146685781.08626625
+Aerodrome Finance,DeFi,Dexs,9002,111631883.17551203
+Coinbase,DeFi,Bridge,114,109915956.99278428
+Orca,DeFi,Launchpad,84105,86658943.41471784
+CoW Protocol,DeFi,Yield,2155,69337691.2150222
+Meteora (Prev. Mercurial),Unknown,Unknown,31702,67044897.289819516
+Fluid (Instadapp),Unknown,Unknown,13933,51080564.9388502
+Kraken,DeFi,CEX,80,47112739.15599369
+PancakeSwap,DeFi,Dexs,21608,46288172.77167291
+Rizzolver (Wintermute),Unknown,Unknown,818,32184658.14711893
+Raydium,DeFi,Dexs,82780,21216792.791661188
+Bybit,DeFi,CEX,97,19899143.727931593
+Bullish.com,Non-DeFi,CEX,14,13460261.06825
+Gate.io,DeFi,CEX,50,12039934.442461504
+OKX,DeFi,CEX,72,8542148.192853792
+Phoenix,DeFi,Dexs,6266,8196686.49591716
+Crypto.com,DeFi,Liquid Staking,17,7410505.415881032
+Velodrome Finance,DeFi,Dexs,2346,6221103.227361786
+Bitfinex,DeFi,CEX,13,5511362.522596125
+Bitstamp,DeFi,CEX,11,4171446.60128902
+Curve.fi,Unknown,Unknown,880,4089240.2374067
+0x,DeFi,DEX Aggregator,370,3421345.836288309
+Camelot,DeFi,Dexs,10729,3077842.375392675
+Lifinity,DeFi,Dexs,418,2239594.5245202244
+Sky (MakerDAO),Unknown,Unknown,2,2122698.0
+ParaSwap,Unknown,Unknown,1557,1571696.0117781232
+MetaMask,DeFi,Wallets,2394,947885.5559355813
+Paxos,DeFi,RWA,3,638402.7
+@chuddybot,Non-DeFi,EOA / Social handle,2,530329.4878832095
+Ethena,DeFi,Basis Trading,1,516906.994017255
+BitMart,DeFi,CEX,1,473819.79998
+SushiSwap,DeFi,Dexs,292,450724.78888949944
+KuCoin,DeFi,CEX,11,441424.55527206085
+Erick @EB7,Unknown,Unknown,2,384500.14097596664
+Backpack Exchange,DeFi,CEX,2,281899.93799999997
+Bitvavo,Non-DeFi,CEX,5,220142.90632418002
+LiFi,DeFi,Dexs,415,219458.56972551055
+1inch,DeFi,DEX Aggregator,20,208386.37657399697
+Bebop,DeFi,DEX Aggregator,428,168897.5443820994
+@bitcocks,Non-DeFi,EOA / Social handle,2,86986.38304300001
+Coinhako,Unknown,Unknown,2,75505.74821963717
+@IshaanLlc,Non-DeFi,EOA / Social handle,2,49912.10900501415
+ShibaSwap,DeFi,Dexs,39,32295.605727877966
+rsync-builder,Unknown,Unknown,2231,16066.028694084687
+The T Resolver (1inch Resolver),DeFi,Basis Trading,18,11154.150259061056
+Rainbow.me,DeFi,Prediction Market,40,10602.342383703328
+@chris900eth,Non-DeFi,EOA / Social handle,2,9767.334094
+Kyber Network,Unknown,Unknown,26,9733.67625606
+@inicola86,Non-DeFi,EOA / Social handle,2,8419.361730856699
+@imCryptoGoku,Non-DeFi,EOA / Social handle,3,5964.084397213496
+@eiiriknft,Non-DeFi,EOA / Social handle,2,5556.3771966799995
+@yo_ji12345,Non-DeFi,EOA / Social handle,2,4011.2286398528704
+@RiceFarmerNFT,Non-DeFi,EOA / Social handle,2,3998.783301
+Jito,DeFi,Liquid Staking,48343,3410.567032845019
+@yiiii420,Non-DeFi,EOA / Social handle,1,2392.205589
+@AnonPartTime,Non-DeFi,EOA / Social handle,2,1541.384708
+Arctic Bastion (1inch Resolver),DeFi,Basis Trading,2,1250.1913744051353
+@thesoloistx,DeFi,Services,1,1000.0
+@ec1ipse_sol,Non-DeFi,EOA / Social handle,2,999.5374374
+Unizen,DeFi,DEX Aggregator,10,661.5895773035836
+@tonydanv,DeFi,Chain,1,593.01043
+@Xaoxin_Ka,DeFi,Services,2,477.80044899999996
+Zerion,DeFi,Wallets,18,377.2936773637618
+@MrBigTimeCEO,Non-DeFi,EOA / Social handle,1,260.02040634
+@itzTenzy_,Non-DeFi,EOA / Social handle,2,214.87318543519595
+@IceSapp45,Non-DeFi,EOA / Social handle,1,214.06829825664
+@averagecontract,Non-DeFi,EOA / Social handle,6,98.45708922677444
+@larutadeclau,Non-DeFi,EOA / Social handle,2,39.45353661055
+@glatebois,Non-DeFi,EOA / Social handle,2,36.0031804005
+@TheCheckedBid33,Non-DeFi,EOA / Social handle,2,22.130191130248498
+@shift_cipher,Non-DeFi,EOA / Social handle,2,21.837632679973495
+@CipherNebulae,Non-DeFi,EOA / Social handle,2,21.529106633011498
+@SolanaSeeker,DeFi,Canonical Bridge,2,21.528178319471998
+@BinarySaga_,DeFi,Chain,2,21.5242263535635
+@SolsticeVault,Non-DeFi,EOA / Social handle,2,21.476583842500503
+@CipherCraze55,Non-DeFi,EOA / Social handle,2,21.4728998491155
+@NebulaVista99,Non-DeFi,EOA / Social handle,2,21.449606981443498
+@CryptoChamp87,Non-DeFi,EOA / Social handle,2,21.426386357839498
+@quantumEVM18,Non-DeFi,EOA / Social handle,2,21.0938730506025
+Odos,DeFi,DEX Aggregator,1,9.032343597623232
+@TrueNFT33,Non-DeFi,EOA / Social handle,2,8.2129283458
+Circle,DeFi,Stablecoin Issuer,1,0.0
