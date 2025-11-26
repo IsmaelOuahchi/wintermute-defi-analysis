@@ -19,8 +19,3 @@ The analysis focuses on:
 - Multi-dimensional visualizations (heatmap, histogram, Sankey)
 
 All analysis is performed in the Jupyter notebook in this repository and summarized in the accompanying Google Doc.
-
----
-
-## 📂 Repository Structure
-
